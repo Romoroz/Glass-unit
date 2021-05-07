@@ -1,0 +1,23 @@
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.exe.config
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.exe
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.pdb
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.csprojAssemblyReference.cache
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form1.resources
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Properties.Resources.resources
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.csproj.GenerateResource.cache
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.exe
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.pdb
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form2.resources
+C:\Users\kobia\source\repos\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form3.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.exe.config
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\bin\Debug\Steklopaket_3.pdb
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.csprojAssemblyReference.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form1.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form2.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Form3.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.Properties.Resources.resources
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.csproj.GenerateResource.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.csproj.CoreCompileInputs.cache
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.exe
+D:\Павел\Учеба\Проекты с учебы на C#\Steklopaket_3\Steklopaket_3\obj\Debug\Steklopaket_3.pdb
